@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Carolynjoy Francisco 👋
 
-<!--
-**franciscocarolynjoy3-gif/franciscocarolynjoy3-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am **Carolynjoy Francisco**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the **BS Information Technology** program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+**BS Information Technology**  
+New Era University  
+2024 - 2026 Present
+
+## 📜 Certification
+
+- [NoSQL and DBaaS 101](https://education.oracle.com/)
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/)
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://education.oracle.com/)
+
+## 💻 Skill Sets
+
+**Programming:** Java, JavaScript
+
+**Databases:** IBM DB2 Cloud
+
+**Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## 📫 You May Reach Me At
+
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/)
+- **Email:** franciscocarolynjoy3@gmail.com
